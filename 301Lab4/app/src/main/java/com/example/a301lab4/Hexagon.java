@@ -1,4 +1,4 @@
 package com.example.a301lab4;
 
-public class Hexagon {
+public class Hexagon extends Shape {
 }
